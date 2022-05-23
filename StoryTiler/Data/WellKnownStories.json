@@ -1,0 +1,257 @@
+[
+    {
+        "name": "Lord of the Rings",
+        "coverID": null,
+        "tiles": [
+            {
+                "name": "Company",
+                "image": "company",
+                "category":
+                {
+                    "name": "incipit",
+                    "questions":
+                    [
+                        {
+                            "entitled": "Which are the character's main motivations?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Describe the ordinary world before the adventure starts",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Are there any allies and/or a mentor?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Why is an adventure needed?",
+                            "answer": ""
+                        },
+                    ]
+                },
+                "description": "A group of diverse fairy people lives under the menace of a greater evil."
+            },
+            {
+                "name": "Ring",
+                "image": "ring",
+                "category":
+                {
+                    "name": "adventure",
+                    "questions":
+                    [
+                        {
+                            "entitled": "Why does the main character refuse to adventure at first?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Then, why does the main character accept the Call to Adventure?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Which are the minor conflicts that obstruct the character in going to adventure?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "What does the extraordinary world look like?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Who accompanies the main character through the adventure?",
+                            "answer": ""
+                        },
+                    ]
+                },
+                "description": "One day, they found a magic ring which is a powerful talisman of the villain."
+            },
+            {
+                "name": "Quest",
+                "image": "quest",
+                "category":
+                {
+                    "name": "conflict",
+                    "questions":
+                    [
+                        {
+                            "entitled": "Who are the enemies?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Which are the challenges that put the character on edge?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Where is set the core conflict?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "What happens when approaching the core conflict?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Which are the crisis points of the core conflict?",
+                            "answer": ""
+                        },
+                    ]
+                },
+                "description": "Then, they travel the entire continent grouping people."
+            },
+            {
+                "name": "Sauron",
+                "image": "sauron",
+                "category":
+                {
+                    "name": "resolution",
+                    "questions":
+                    [
+                        {
+                            "entitled": "What is the reward?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Are there any difficulties in the road back to the ordinary world?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "How does the character changed after the conflict?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Is the ordinary world different now?",
+                            "answer": ""
+                        },
+                    ]
+                },
+                "description": "So they defeat the greater evil by destroying its source of power."
+            },
+        ],
+        "isFavorite": false
+    },
+    {
+        "name": "Spider-Man",
+        "coverID": null,
+        "tiles": [
+            {
+                "name": "Orphan",
+                "image": "orphan",
+                "category":
+                {
+                    "name": "incipit",
+                    "questions":
+                    [
+                        {
+                            "entitled": "Which are the character's main motivations?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Describe the ordinary world before the adventure starts",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Are there any allies and/or a mentor?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Why is an adventure needed?",
+                            "answer": ""
+                        },
+                    ]
+                },
+                "description": "An orphan kid lives alone with their relatives."
+            },
+            {
+                "name": "Spider",
+                "image": "spider",
+                "category":
+                {
+                    "name": "adventure",
+                    "questions":
+                    [
+                        {
+                            "entitled": "Why does the main character refuse to adventure at first?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Then, why does the main character accept the Call to Adventure?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Which are the minor conflicts that obstruct the character in going to adventure?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "What does the extraordinary world look like?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Who accompanies the main character through the adventure?",
+                            "answer": ""
+                        },
+                    ]
+                },
+                "description": "One day, he gets bitten by a radioactive spider."
+            },
+            {
+                "name": "Superhero",
+                "image": "superhero",
+                "category":
+                {
+                    "name": "conflict",
+                    "questions":
+                    [
+                        {
+                            "entitled": "Who are the enemies?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Which are the challenges that put the character on edge?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Where is the core conflict set?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "What happens when approaching the core conflict?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Which are the crisis points of the core conflict?",
+                            "answer": ""
+                        },
+                    ]
+                },
+                "description": "Then, they use their superpowers for a greater good."
+            },
+            {
+                "name": "Responsibility",
+                "image": "responsibility",
+                "category":
+                {
+                    "name": "resolution",
+                    "questions":
+                    [
+                        {
+                            "entitled": "What is the reward?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Are there any difficulties in the road back to the ordinary world?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "How is the character changed after the conflict?",
+                            "answer": ""
+                        },
+                        {
+                            "entitled": "Is the ordinary world different now?",
+                            "answer": ""
+                        },
+                    ]
+                },
+                "description": "So they learn to be responsible and to protect their loved ones."
+            },
+        ],
+        "isFavorite": false
+    }
+]
+

@@ -1,0 +1,812 @@
+[
+    {
+        "name": "Orphan",
+        "image": "orphan",
+        "category":
+        {
+            "name": "incipit",
+            "questions":
+            [
+                {
+                    "entitled": "Which are the character's main motivations?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Describe the ordinary world before the adventure starts",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Are there any allies and/or a mentor?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Why is an adventure needed?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "An orphan kid lives alone with his relatives."
+    },
+    {
+        "name": "Company",
+        "image": "company",
+        "category":
+        {
+            "name": "incipit",
+            "questions":
+            [
+                {
+                    "entitled": "Which are the character's main motivations?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Describe the ordinary world before the adventure starts",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Are there any allies and/or a mentor?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Why is an adventure needed?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "A group of diverse fairy people lives under the menace of a greater evil."
+    },
+    {
+        "name": "Detective",
+        "image": "detective",
+        "category":
+        {
+            "name": "incipit",
+            "questions":
+            [
+                {
+                    "entitled": "Which are the character's main motivations?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Describe the ordinary world before the adventure starts",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Are there any allies and/or a mentor?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Why is an adventure needed?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "An unexperienced detective is set to solve their first case."
+    },
+    {
+        "name": "Brain",
+        "image": "brain",
+        "category":
+        {
+            "name": "incipit",
+            "questions":
+            [
+                {
+                    "entitled": "Which are the character's main motivations?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Describe the ordinary world before the adventure starts",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Are there any allies and/or a mentor?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Why is an adventure needed?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "Humanity is sure to be the only intelligent life form in the universe."
+    },
+    {
+        "name": "Hunter",
+        "image": "hunter",
+        "category":
+        {
+            "name": "incipit",
+            "questions":
+            [
+                {
+                    "entitled": "Which are the character's main motivations?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Describe the ordinary world before the adventure starts",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Are there any allies and/or a mentor?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Why is an adventure needed?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "A hunter is on the tracks of their next prey."
+    },
+    {
+        "name": "Scientist",
+        "image": "scientist",
+        "category":
+        {
+            "name": "incipit",
+            "questions":
+            [
+                {
+                    "entitled": "Which are the character's main motivations?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Describe the ordinary world before the adventure starts",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Are there any allies and/or a mentor?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Why is an adventure needed?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "A kid is assistant to a freaky scientist and inventor."
+    },
+    {
+        "name": "Friends",
+        "image": "friends",
+        "category":
+        {
+            "name": "incipit",
+            "questions":
+            [
+                {
+                    "entitled": "Which are the character's main motivations?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Describe the ordinary world before the adventure starts",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Are there any allies and/or a mentor?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Why is an adventure needed?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "A group of friends is travelling in a lonely place."
+    },
+    {
+        "name": "Couple",
+        "image": "couple",
+        "category":
+        {
+            "name": "incipit",
+            "questions":
+            [
+                {
+                    "entitled": "Which are the character's main motivations?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Describe the ordinary world before the adventure starts",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Are there any allies and/or a mentor?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Why is an adventure needed?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "A couple decides to move to the next step: getting married."
+    },
+    {
+        "name": "Duck",
+        "image": "duck",
+        "category":
+        {
+            "name": "adventure",
+            "questions":
+            [
+                {
+                    "entitled": "Why does the main character refuse to adventure at first?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Then, why does the main character accept the Call to Adventure?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the minor conflicts that obstruct the character in going to adventure?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "What does the extraordinary world look like?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Who accompanies the main character through the adventure?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "One day, a giant yellow rubber duck appears."
+    },
+    {
+        "name": "Ring",
+        "image": "ring",
+        "category":
+        {
+            "name": "adventure",
+            "questions":
+            [
+                {
+                    "entitled": "Why does the main character refuse to adventure at first?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Then, why does the main character accept the Call to Adventure?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the minor conflicts that obstruct the character in going to adventure?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "What does the extraordinary world look like?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Who accompanies the main character through the adventure?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "One day, they find a magic ring, which is a powerful talisman of the Villain."
+    },
+    {
+        "name": "Spider",
+        "image": "spider",
+        "category":
+        {
+            "name": "adventure",
+            "questions":
+            [
+                {
+                    "entitled": "Why does the main character refuse to adventure at first?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Then, why does the main character accept the Call to Adventure?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the minor conflicts that obstruct the character in going to adventure?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "What does the extraordinary world look like?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Who accompanies the main character through the adventure?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "One day, they get bitten by a radioactive spider."
+    },
+    {
+        "name": "Mushroom",
+        "image": "mushroom",
+        "category":
+        {
+            "name": "adventure",
+            "questions":
+            [
+                {
+                    "entitled": "Why does the main character refuse to adventure at first?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Then, why does the main character accept the Call to Adventure?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the minor conflicts that obstruct the character in going to adventure?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "What does the extraordinary world look like?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Who accompanies the main character through the adventure?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "One day, they find a giant mushroom in the forest."
+    },
+    {
+        "name": "Monolith",
+        "image": "monolith",
+        "category":
+        {
+            "name": "adventure",
+            "questions":
+            [
+                {
+                    "entitled": "Why does the main character refuse to adventure at first?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Then, why does the main character accept the Call to Adventure?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the minor conflicts that obstruct the character in going to adventure?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "What does the extraordinary world look like?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Who accompanies the main character through the adventure?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "One day, they discover a sign of alien civilizations in outer space."
+    },
+    {
+        "name": "Time Machine",
+        "image": "timemachine",
+        "category":
+        {
+            "name": "adventure",
+            "questions":
+            [
+                {
+                    "entitled": "Why does the main character refuse to adventure at first?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Then, why does the main character accept the Call to Adventure?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the minor conflicts that obstruct the character in going to adventure?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "What does the extraordinary world look like?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Who accompanies the main character through the adventure?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "One day, they invent a time machine."
+    },
+    {
+        "name": "Monster",
+        "image": "monster",
+        "category":
+        {
+            "name": "adventure",
+            "questions":
+            [
+                {
+                    "entitled": "Why does the main character refuse to adventure at first?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Then, why does the main character accept the Call to Adventure?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the minor conflicts that obstruct the character in going to adventure?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "What does the extraordinary world look like?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Who accompanies the main character through the adventure?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "One day, they get trapped and chased by a monstruous presence."
+    },
+    {
+        "name": "Quest",
+        "image": "quest",
+        "category":
+        {
+            "name": "conflict",
+            "questions":
+            [
+                {
+                    "entitled": "Who are the enemies?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the challenges that put the character on edge?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Where is the core conflict set?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "What happens when approaching the core conflict?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the crisis points of the core conflict?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "Then, they travel, recruiting people along the way."
+    },
+    {
+        "name": "Superhero",
+        "image": "superhero",
+        "category":
+        {
+            "name": "conflict",
+            "questions":
+            [
+                {
+                    "entitled": "Who are the enemies?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the challenges that put the character on edge?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Where is the core conflict set?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "What happens when approaching the core conflict?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the crisis points of the core conflict?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "Then, they use their superpowers for a greater good."
+    },
+    {
+        "name": "Explosion",
+        "image": "explosion",
+        "category":
+        {
+            "name": "conflict",
+            "questions":
+            [
+                {
+                    "entitled": "Who are the enemies?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the challenges that put the character on edge?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Where is the core conflict set?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "What happens when approaching the core conflict?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the crisis points of the core conflict?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "Then, they wipe out the entire enemy base."
+    },
+    {
+        "name": "Computer",
+        "image": "computer",
+        "category":
+        {
+            "name": "conflict",
+            "questions":
+            [
+                {
+                    "entitled": "Who are the enemies?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the challenges that put the character on edge?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Where is the core conflict set?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "What happens when approaching the core conflict?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the crisis points of the core conflict?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "Then, their Artificial Intelligence shows consciousness and disobeys orders."
+    },
+    {
+        "name": "Backward",
+        "image": "backward",
+        "category":
+        {
+            "name": "conflict",
+            "questions":
+            [
+                {
+                    "entitled": "Who are the enemies?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the challenges that put the character on edge?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Where is the core conflict set?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "What happens when approaching the core conflict?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the crisis points of the core conflict?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "Then, they try to save the present by modifying the past."
+    },
+    {
+        "name": "Blood",
+        "image": "blood",
+        "category":
+        {
+            "name": "conflict",
+            "questions":
+            [
+                {
+                    "entitled": "Who are the enemies?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the challenges that put the character on edge?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Where is the core conflict set?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "What happens when approaching the core conflict?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Which are the crisis points of the core conflict?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "Then, many people die while trying to escape or to kill the Villain."
+    },
+    {
+        "name": "Sauron",
+        "image": "sauron",
+        "category":
+        {
+            "name": "resolution",
+            "questions":
+            [
+                {
+                    "entitled": "What is the reward?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Are there any difficulties in the road back to the ordinary world?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "How is the character changed after the conflict?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Is the ordinary world different now?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "So they defeat the greater evil by destroying its source of power."
+    },
+    {
+        "name": "Responsibility",
+        "image": "responsibility",
+        "category":
+        {
+            "name": "resolution",
+            "questions":
+            [
+                {
+                    "entitled": "What is the reward?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Are there any difficulties in the road back to the ordinary world?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "How is the character changed after the conflict?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Is the ordinary world different now?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "So they learn to take responsibility and to protect the people they love."
+    },
+    {
+        "name": "Peace",
+        "image": "peace",
+        "category":
+        {
+            "name": "resolution",
+            "questions":
+            [
+                {
+                    "entitled": "What is the reward?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Are there any difficulties in the road back to the ordinary world?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "How is the character changed after the conflict?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Is the ordinary world different now?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "So war is over and peace is restored."
+    },
+    {
+        "name": "Planet",
+        "image": "planet",
+        "category":
+        {
+            "name": "resolution",
+            "questions":
+            [
+                {
+                    "entitled": "What is the reward?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Are there any difficulties in the road back to the ordinary world?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "How is the character changed after the conflict?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Is the ordinary world different now?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "So they find a new place to live for humanity."
+    },
+    {
+        "name": "Survivor",
+        "image": "survivor",
+        "category":
+        {
+            "name": "resolution",
+            "questions":
+            [
+                {
+                    "entitled": "What is the reward?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Are there any difficulties in the road back to the ordinary world?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "How is the character changed after the conflict?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Is the ordinary world different now?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "So the last survivor can testify how to overcome their fears."
+    },
+    {
+        "name": "Wedding",
+        "image": "wedding",
+        "category":
+        {
+            "name": "resolution",
+            "questions":
+            [
+                {
+                    "entitled": "What is the reward?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Are there any difficulties in the road back to the ordinary world?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "How is the character changed after the conflict?",
+                    "answer": ""
+                },
+                {
+                    "entitled": "Is the ordinary world different now?",
+                    "answer": ""
+                },
+            ]
+        },
+        "description": "So they finally get married with the father-in-law consensus."
+    }
+]
+
+
