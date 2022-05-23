@@ -135,9 +135,8 @@
 				964599DC2747A4CB0020B0B0 /* Assets.xcassets */,
 				964599DE2747A4CB0020B0B0 /* Preview Content */,
 			);
-			name = StoryTiler;
-			path = /Users/alessandro/Desktop/StoryTiler/StoryTiler;
-			sourceTree = "<absolute>";
+			path = StoryTiler;
+			sourceTree = "<group>";
 		};
 		964599DE2747A4CB0020B0B0 /* Preview Content */ = {
 			isa = PBXGroup;
